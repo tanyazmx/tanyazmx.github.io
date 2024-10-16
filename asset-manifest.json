@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tanyazmx.github.io/static/css/main.cdaae039.css",
+    "main.js": "/tanyazmx.github.io/static/js/main.4b097326.js",
+    "static/js/453.56f46472.chunk.js": "/tanyazmx.github.io/static/js/453.56f46472.chunk.js",
+    "static/media/1.jpg": "/tanyazmx.github.io/static/media/1.0cc3cb0f4f9c57baeb86.jpg",
+    "index.html": "/tanyazmx.github.io/index.html",
+    "main.cdaae039.css.map": "/tanyazmx.github.io/static/css/main.cdaae039.css.map",
+    "main.4b097326.js.map": "/tanyazmx.github.io/static/js/main.4b097326.js.map",
+    "453.56f46472.chunk.js.map": "/tanyazmx.github.io/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdaae039.css",
+    "static/js/main.4b097326.js"
+  ]
+}
